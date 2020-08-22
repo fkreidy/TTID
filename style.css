@@ -882,7 +882,7 @@ pre {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
-    max-width: 25%; }
+    max-width: 30%; }
   .col-md-4 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 33.33333%;
@@ -8836,7 +8836,7 @@ h1, h2, h3, h4, h5,
 
 .project {
   width: 100%;
-  height: 315px;
+  height: 330px;
   margin-bottom: 0;
   position: relative;
   z-index: 0;
