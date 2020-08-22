@@ -166,6 +166,9 @@ figure {
 
 img {
   vertical-align: middle;
+  
+        text-align: center;
+        display: table-cell;
   border-style: none; }
 
 svg {
